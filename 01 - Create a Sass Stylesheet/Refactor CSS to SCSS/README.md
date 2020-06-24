@@ -16,10 +16,6 @@ The band at Common Cents Party wants to update their codebase by upgrading from 
 ### Details | Comments
 - This project has not been made from scratch. A premade template from the related course has been used.   
 
-### CodePen
-You can find this project on CodePen.  
-URL: ...
-
 ### Status
 Completed
 
@@ -27,4 +23,4 @@ Completed
 22/06/2020
 
 #### Last update (README.md)
-22/06/2020
+24/06/2020
